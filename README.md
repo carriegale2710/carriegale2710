@@ -42,9 +42,5 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carriegale2710&theme=dark" alt="carriegale2710" /></p>
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
-<picture>
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Iso Calendar">
 </picture>
