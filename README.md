@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Carrie (Based in Sydney)</h1>
-<h3 align="center">I'm looking for a junior role as a front-end/full-stack software developer</h3>
+<h3 align="center">I'm looking for a junior/intern role as a front-end or full-stack software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carriegale2710&label=Profile%20views&color=0e75b6&style=flat" alt="carriegale2710" /> </p>
 
@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [github.com/carriegale2710](github.com/carriegale2710)
 
-- 💬 Ask me about **react, typescript, python, ux/ui design**
+- 💬 Ask me about **React, Typescript, Python, Spring, Figma (UX/UI Design)**
 
 - 📫 How to reach me **carriegale2710@gmail.com**
 
-- 📄 Know about my experiences [docs.google.com/document/d/1nqNBpT-Bmd1oHxTKW83mpFl7X0W1g5Ra0C4Tw1QxN5U/edit?usp=sharing](docs.google.com/document/d/1nqNBpT-Bmd1oHxTKW83mpFl7X0W1g5Ra0C4Tw1QxN5U/edit?usp=sharing)
+- 📄 Know about my experiences [View Resume](docs.google.com/document/d/1nqNBpT-Bmd1oHxTKW83mpFl7X0W1g5Ra0C4Tw1QxN5U/edit?usp=sharing)
 
-- ⚡ Fun fact **I can speak Korean pretty well**
+- ⚡ Fun fact **I'm interested in building tech startups!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+<picture>
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Iso Calendar">
 </picture>
