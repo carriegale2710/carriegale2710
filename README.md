@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [View Resume](docs.google.com/document/d/1nqNBpT-Bmd1oHxTKW83mpFl7X0W1g5Ra0C4Tw1QxN5U/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm interested in building tech startups!**
+- ⚡ Fun fact **My MBTI is INTP-T (Logician).**
 
 <!-- https://www.16personalities.com/profiles/intp-t/x/cfg6yqygl -->
 
