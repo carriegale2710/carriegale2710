@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
-                    <span>Carrie Gale</span>
+                    <span>Carrie Isabel Gale</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            13 Issues opened
+                            17 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 47 repositories
+                            Starred 48 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2317,7 +2317,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Aug 2026, 23:47:22 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Aug 2026, 00:37:29 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
