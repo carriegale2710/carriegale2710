@@ -5,7 +5,7 @@
 
 - **[Employee Creator](https://employeecreator.site)**: HR management system built with Spring Boot, React and TypeScript. Built solo. [Source](https://github.com/carriegale2710/employee-creator).
 - **[Trivia App](https://mytriviagame.lol)**: Full stack trivia React app with REST API for saving game sessions and retry data.
-Pair programming project with @CodeByFred. [Source](https://github.com/CodeByFred/trivia).
+Pair programming project. [Source](https://github.com/CodeByFred/trivia).
 - **[Waitlist Site](https://waitlist-site-pearl-nine.vercel.app)**: waitlist landing page template with a built-in accessibility overlay. Designed for startups. [Source](https://github.com/carriegale2710/waitlist-site). 
 - **[Indigenous Library](https://indigenouslibrary.site/)**: Library portal website for managing collections of cultural artefacts, books, images and audio from Australian indigenous communities. Team project. [Source](https://github.com/carriegale2710/indigenous-library).
 
