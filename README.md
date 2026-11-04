@@ -1,4 +1,4 @@
-<h1 align="center">Front-end / full-stack developer who bridges design and code</h1>
+<h1 align="center">Front-end / full-stack developer: bridges design and code</h1>
 <h3 align="center">Sydney. Open to graduate and startup roles.</h3>
 
 ## Live projects
