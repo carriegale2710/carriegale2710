@@ -3,12 +3,58 @@
 
 ## Live project demos
 
-- **[Employee Creator](https://employeecreator.site)**: HR management system built with Spring Boot, React and TypeScript. Built solo. [Source](https://github.com/carriegale2710/employee-creator).
-- **[Trivia App](https://mytriviagame.lol)**: Full stack trivia React app with REST API for saving game sessions and retry data.
-Pair programming project. [Source](https://github.com/CodeByFred/trivia).
-- **[Waitlist Site](https://waitlist-site-pearl-nine.vercel.app)**: waitlist landing page template with a built-in accessibility overlay. Designed for startups. [Source](https://github.com/carriegale2710/waitlist-site). 
-- **[Indigenous Library](https://indigenouslibrary.site/)**: Library portal website for managing collections of cultural artefacts. Team project. [Source](https://github.com/carriegale2710/indigenous-library).
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://employeecreator.site/">
+        <img src="docs/demos/employee-creator.png" alt="Employee Creator: employee list view" width="400">
+      </a>
+      <br>
+      <b><a href="https://employeecreator.site/">Employee Creator</a></b>
+      <br>
+      HR management system built with Spring Boot, React and TypeScript. Built solo.
+      <br>
+      <a href="https://github.com/carriegale2710/employee-creator">Source</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://mytriviagame.lol/">
+        <img src="docs/demos/trivia-app.png" alt="Trivia App: game question screen" width="400">
+      </a>
+      <br>
+      <b><a href="https://mytriviagame.lol/">Trivia App</a></b>
+      <br>
+      Full stack trivia React app with REST API for saving game sessions and retry data. Pair programming project.
+      <br>
+      <a href="https://github.com/CodeByFred/trivia">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://waitlist-site-pearl-nine.vercel.app/">
+        <img src="docs/demos/waitlist-site.png" alt="Waitlist Site: landing page with accessibility toolbar" width="400">
+      </a>
+      <br>
+      <b><a href="https://waitlist-site-pearl-nine.vercel.app/">Waitlist Site</a></b>
+      <br>
+      Waitlist landing page template with a built-in accessibility overlay. Designed for startups.
+      <br>
+      <a href="https://github.com/carriegale2710/waitlist-site">Source</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://indigenouslibrary.site/">
+        <img src="docs/demos/indigenous-library.png" alt="Indigenous Library: collection portal home page" width="400">
+      </a>
+      <br>
+      <b><a href="https://indigenouslibrary.site/">Indigenous Library</a></b>
+      <br>
+      Library portal website for managing collections of cultural artefacts. Team project.
+      <br>
+      <a href="https://github.com/carriegale2710/indigenous-library">Source</a>
+    </td>
+  </tr>
+</table>
 
+I'm also building AI-agent tooling, see [job-application-agent](https://github.com/carriegale2710/job-application-agent).
 I'm also building AI-agent tooling, see [job-application-agent](https://github.com/carriegale2710/job-application-agent).
 
 ## About
