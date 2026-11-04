@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://mytriviagame.lol/">
-        <img src="docs/demos/trivia-app.png" alt="Trivia App: game question screen" width="400">
+        <img src="docs/demos/trivia-app.png" alt="Trivia App: start screen with difficulty and category options" width="400">
       </a>
       <br>
       <b><a href="https://mytriviagame.lol/">Trivia App</a></b>
@@ -31,7 +31,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://waitlist-site-pearl-nine.vercel.app/">
-        <img src="docs/demos/waitlist-site.png" alt="Waitlist Site: landing page with accessibility toolbar" width="400">
+        <img src="docs/demos/waitlist-site.png" alt="Waitlist Site: landing page with accessibility button" width="400">
       </a>
       <br>
       <b><a href="https://waitlist-site-pearl-nine.vercel.app/">Waitlist Site</a></b>
@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://indigenouslibrary.site/">
-        <img src="docs/demos/indigenous-library.png" alt="Indigenous Library: collection portal home page" width="400">
+        <img src="docs/demos/indigenous-library.png" alt="Indigenous Library: browse catalogue page with search and filters" width="400">
       </a>
       <br>
       <b><a href="https://indigenouslibrary.site/">Indigenous Library</a></b>
@@ -55,11 +55,10 @@
 </table>
 
 I'm also building AI-agent tooling, see [job-application-agent](https://github.com/carriegale2710/job-application-agent).
-I'm also building AI-agent tooling, see [job-application-agent](https://github.com/carriegale2710/job-application-agent).
 
 ## About
 
-I'm a junior full-stack developer who started out as a UX/UI designer. Finished a 4 month long software engineering bootcamp last year, realised I'd rather build and ship fast than run neverending design sprints. Got a Graduate Certificate of IT from QUT this year. My first love of design still helps. Knowing what to build (and more importantly, what NOT to build) is what makes or breaks good code (also preventing *ahem* AI slop...). Also:
+I'm a junior full-stack developer who started out as a UX/UI designer. Finished a 4 month long software engineering bootcamp last year, realised I'd rather build and ship fast than run neverending design sprints. Got a Graduate Certificate of IT from QUT this year. My first love of design still helps. Knowing what to build (and more importantly, what NOT to build) is what makes or breaks good code (also preventing _ahem_ AI slop...). Also:
 
 - Shipped a role-based notes feature in an Agile internship (NestJS, MySQL, Next.js).
 - Built and deployed full-stack apps with React, TypeScript, Java/Spring Boot and SQL, with automated tests and CI. Best ones are pinned below.
