@@ -3,10 +3,11 @@
 
 ## Live projects
 
-- **[Employee Creator](https://employeecreator.site)**: HR management system built with Spring Boot, React and TypeScript. [Source](https://github.com/carriegale2710/employee-creator)
-- **[Waitlist Site](https://waitlist-site-pearl-nine.vercel.app)**: waitlist landing page template with a built-in accessibility overlay. [Source](https://github.com/carriegale2710/waitlist-site)
+- **[Employee Creator](https://employeecreator.site)**: HR management system built with Spring Boot, React and TypeScript. [Source](https://github.com/carriegale2710/employee-creator). Built solo.
+- **[Waitlist Site](https://waitlist-site-pearl-nine.vercel.app)**: waitlist landing page template with a built-in accessibility overlay. [Source](https://github.com/carriegale2710/waitlist-site). Designed with Figma.
+- **[Indigenous Library](https://indigenouslibrary.site/)**: Library portal website for managing collections of cultural artefacts, books, images and audio from Australian indigenous communities. Team University Project.
 
-I also build AI-agent tooling, see [skills-library](https://github.com/carriegale2710/skills-library).
+I also build AI-agent tooling, see [job-application-agent](https://github.com/carriegale2710/job-application-agent).
 
 ## About
 
