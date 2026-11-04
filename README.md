@@ -1,24 +1,31 @@
 <h1 align="center">Front-end / full-stack developer: bridges design and code</h1>
 <h3 align="center">Sydney. Open to graduate and startup roles.</h3>
 
-## Live projects
+## Live project demos
 
-- **[Employee Creator](https://employeecreator.site)**: HR management system built with Spring Boot, React and TypeScript. [Source](https://github.com/carriegale2710/employee-creator). Built solo.
-- **[Waitlist Site](https://waitlist-site-pearl-nine.vercel.app)**: waitlist landing page template with a built-in accessibility overlay. [Source](https://github.com/carriegale2710/waitlist-site). Designed with Figma.
-- **[Indigenous Library](https://indigenouslibrary.site/)**: Library portal website for managing collections of cultural artefacts, books, images and audio from Australian indigenous communities. Team University Project.
+- **[Employee Creator](https://employeecreator.site)**: HR management system built with Spring Boot, React and TypeScript. Built solo. [Source](https://github.com/carriegale2710/employee-creator). 
+- **[Waitlist Site](https://waitlist-site-pearl-nine.vercel.app)**: waitlist landing page template with a built-in accessibility overlay. Designed for startups. [Source](https://github.com/carriegale2710/waitlist-site). 
+- **[Indigenous Library](https://indigenouslibrary.site/)**: Library portal website for managing collections of cultural artefacts, books, images and audio from Australian indigenous communities. Team project. [Source](https://github.com/carriegale2710/indigenous-library).
 
-I also build AI-agent tooling, see [job-application-agent](https://github.com/carriegale2710/job-application-agent).
+I'm also building AI-agent tooling, see [job-application-agent](https://github.com/carriegale2710/job-application-agent).
 
 ## About
 
-- 🌱 Currently learning **Next.js** and building **micro-SaaS apps**
-- 💬 Ask me about **bridging the design-to-code journey in product development, usability testing**
+I'm a junior full-stack developer who started out as a UX/UI designer. Finished a 4 month long software engineering bootcamp last year, realised I'd rather build and ship fast than run neverending design sprints. Got a Graduate Certificate of IT from QUT this year. My first love of design still helps. Knowing what to build (and more importantly, what NOT to build) is what makes or breaks good code (also preventing *ahem* AI slop...). Also:
+
+- Shipped a role-based notes feature in an Agile internship (NestJS, MySQL, Next.js).
+- Built and deployed full-stack apps with React, TypeScript, Java/Spring Boot and SQL, with automated tests and CI. Best ones are pinned below.
+
+- 🌱 Currently learning **prompt-engineering** and building **micro-SaaS apps**
+- 💬 Ask me about **applying product thinking to programming**
 - 📫 Reach me: **carriegale2710 (at) gmail (dot) com**
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Linked In:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/carrie-gale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carrie-gale" height="30" width="40" /></a>
 </p>
+
+## Tech stack
 
 <h4 align="left">Front-end</h4>
 <p align="left">
