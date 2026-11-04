@@ -50,8 +50,6 @@
       <b>Indigenous Library</b> - <a href="https://indigenouslibrary.site/">Live demo</a>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-      <br>
       Library portal website for managing collections of cultural artefacts. Team project.
     </td>
   </tr>
