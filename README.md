@@ -65,26 +65,61 @@ I'm a junior full-stack developer who started out as a UX/UI designer. Finished 
 
 - 🌱 Currently learning **prompt-engineering** and building **micro-SaaS apps**
 - 💬 Ask me about **applying product thinking to programming**
-- 📫 Reach me: **carriegale2710 (at) gmail (dot) com**
-
-<h4 align="left">Linked In:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/carrie-gale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carrie-gale" height="30" width="40" /></a>
-</p>
 
 ## Tech stack
 
-<h4 align="left">Front-end</h4>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
+<table>
+  <tr>
+    <th align="left">Front-end</th>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="40" height="40"><br><sub>React</sub></a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"><br><sub>TypeScript</sub></a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="" width="40" height="40"><br><sub>Figma</sub></a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="40" height="40"><br><sub>HTML</sub></a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" width="40" height="40"><br><sub>CSS</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Back-end</th>
+    <td align="center" width="96">
+      <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="40" height="40"><br><sub>Java</sub></a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="" width="40" height="40"><br><sub>Spring</sub></a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="" width="40" height="40"><br><sub>MySQL</sub></a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40"><br><sub>Node.js</sub></a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" width="40" height="40"><br><sub>Python</sub></a>
+    </td>
+  </tr>
+</table>
 
-<h4 align="left">Back-end</h4>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-</p>
+## Contact
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>📫 Email</b>
+      <br>
+      carriegale2710 (at) gmail (dot) com
+    </td>
+    <td align="center" width="50%">
+      <a href="https://linkedin.com/in/carrie-gale" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+      <br>
+      <b><a href="https://linkedin.com/in/carrie-gale" target="blank">LinkedIn</a></b>
+    </td>
+  </tr>
+</table>
