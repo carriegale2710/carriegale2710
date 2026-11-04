@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carriegale2710" alt="carriegale2710" /></a> </p> -->
 
-- 🌱 I’m currently learning **Agentic AI workflows**
+- 🌱 I’m currently learning **Agentic AI workflows and building micro-SaaS apps**
 - 💬 Ask me about **Bridging the Design-to-code journey in product development, usability testing**
 - 📫 How to reach me **carriegale2710 (at) gmail (dot) com**
-- 📄 Full portfolio and resume at carriegale.com
 - ⚡ Fun fact **My MBTI is INTP-T (Logician).**
 
 <!-- https://www.16personalities.com/profiles/intp-t/x/cfg6yqygl -->
