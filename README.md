@@ -68,7 +68,7 @@ I'm Carrie, a aspiring full-stack developer who started out as a UX/UI designer.
 - 💬 Ask me about **applying product thinking to programming**
 
 # What I'm up to now
-- Currently working on: [TaskRPG](https://github.com/carriegale2710/job-application-agent) and [resume-tailor](https://github.com/carriegale2710/job-application-agent).
+- Currently working on: [TaskRPG](https://github.com/carriegale2710/TaskRPG) and [resume-tailor](https://github.com/carriegale2710/resume-tailor).
 - I'm also building AI-agent tooling, see [job-application-agent](https://github.com/carriegale2710/job-application-agent).
 
 ## Tech stack
