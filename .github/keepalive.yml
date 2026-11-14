@@ -1,0 +1,26 @@
+name: Keep scheduled workflows enabled
+
+on:
+  schedule:
+    - cron: "0 3 1 * *" # 3:00 UTC on the 1st of each month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Touch repository
+        run: |
+          date -u +"Last keepalive: %Y-%m-%dT%H:%M:%SZ" > .github/keepalive.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/keepalive.txt
+          git commit -m "chore: monthly keepalive" || exit 0
+          git push
