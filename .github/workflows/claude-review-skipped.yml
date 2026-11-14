@@ -21,11 +21,11 @@ jobs:
       - name: Scan accessible repositories
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
-          GITHUB_OWNER: ${{ vars.GITHUB_OWNER }} # your username or org
+          GITHUB_OWNER: ${{ vars.GH_OWNER }} # your username or org
         run: |
           set -euo pipefail
 
-          gh repo list "$GITHUB_OWNER" \
+          gh repo list "$GH_OWNER" \
             --limit 500 \
             --json nameWithOwner \
             --jq '.[].nameWithOwner' |
