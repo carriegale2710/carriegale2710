@@ -1,0 +1,74 @@
+name: Claude-review PRs skipped by CodeRabbit
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install GitHub CLI
+        run: sudo apt-get update && sudo apt-get install -y gh
+
+      - name: Scan accessible repositories
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_OWNER: ${{ vars.GITHUB_OWNER }} # your username or org
+        run: |
+          set -euo pipefail
+
+          gh repo list "$GITHUB_OWNER" \
+            --limit 500 \
+            --json nameWithOwner \
+            --jq '.[].nameWithOwner' |
+          while read -r repo; do
+            echo "Scanning $repo"
+
+            gh pr list \
+              --repo "$repo" \
+              --state open \
+              --draft false \
+              --limit 100 \
+              --json number,headRefOid \
+              --jq '.[] | "\(.number) \(.headRefOid)"' |
+            while read -r number sha; do
+              [ -n "$number" ] || continue
+
+              skipped="$(gh api \
+                "repos/$repo/commits/$sha/check-runs" \
+                --jq '
+                  .check_runs
+                  | map(select(.name == "CodeRabbit" and .conclusion == "skipped"))
+                  | length
+                ')"
+
+              already="$(gh pr view "$number" --repo "$repo" --json labels \
+                --jq '.labels[].name | select(. == "claude-review-requested")' || true)"
+
+              if [ "$skipped" -gt 0 ] && [ -z "$already" ]; then
+                echo "Requesting Claude review: $repo#$number"
+
+                gh label create claude-review-requested \
+                  --repo "$repo" \
+                  --description "Claude review requested after CodeRabbit skipped" \
+                  --color 1D76DB \
+                  >/dev/null 2>&1 || true
+
+                gh pr comment "$number" \
+                  --repo "$repo" \
+                  --body "@claude review"
+
+                gh pr edit "$number" \
+                  --repo "$repo" \
+                  --add-label claude-review-requested
+              fi
+            done
+          done
